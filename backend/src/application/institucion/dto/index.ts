@@ -1,0 +1,1 @@
+export * from './institucion.dto'

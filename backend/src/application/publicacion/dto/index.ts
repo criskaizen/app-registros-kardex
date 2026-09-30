@@ -1,0 +1,7 @@
+export * from './crear-publicacion.dto'
+export * from './actualizar-publicacion.dto'
+export * from './filtros-publicacion.dto'
+export * from './params-slug.dto'
+export * from './crear-publicacion-imagen.dto'
+export * from './actualizar-publicacion-imagen.dto'
+export * from './filtros-publicacion-imagen.dto'
